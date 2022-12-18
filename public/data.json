@@ -1,0 +1,32 @@
+[
+    {
+        "id": 12,
+        "status": "active",
+        "sum": 2000,
+        "qty": 123,
+        "volume": 12345,
+        "name": "Coat",
+        "delivery_date": "02.09.2023",
+        "currency": "rub"
+    },
+    {
+        "id": 1e2,
+        "status": "active",
+        "sum": 300,
+        "qty": 234,
+        "volume": 890,
+        "name": "Dress",
+        "delivery_date": "01.08.2023",
+        "currency": "rub"
+    },
+    {
+        "id": 1e42,
+        "status": "active",
+        "sum": 3090,
+        "qty": 2354,
+        "volume": 8950,
+        "name": "Shirt",
+        "delivery_date": "03.09.2023",
+        "currency": "rub"
+    }
+]
